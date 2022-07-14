@@ -1,0 +1,17 @@
+* Home
+* About
+*courses[
+All course
+UI/UX Design
+PYTHON
+FrontEnd Programming
+Backend Programming
+Data Analytics
+Graphics Design
+]
+Contact
+
+colors
+#E7A630-gold
+#B91B28-red
+#1978BF-Blue
